@@ -156,3 +156,14 @@ p{
   padding-right: 10px;
   font-size: 1.65rem;
 }
+
+.bg-image{
+  background-image: url("images/Background.jpeg");
+  filter: blur(4px);
+  -webkit-filter: blur(4px);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
