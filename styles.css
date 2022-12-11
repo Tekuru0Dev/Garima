@@ -113,9 +113,20 @@ p{
 }
 
 .top-container{
-  position:relative;
-  padding-top: 6.25rem;
-  background-color: #EAF6F6;
+  background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0, 0.1);
+  color: white;
+  font-weight: bold;
+  border: 3px none #f1f1f1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 90%;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 23px;
 }
 
 .middle-container{
