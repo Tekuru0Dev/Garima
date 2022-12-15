@@ -3,7 +3,7 @@ h1{
   font-size: 6rem;
   font-family: 'Sacramento', cursive;
   line-height: 2;
-  color: #66BFBF;
+  color: black;
 }
 body{
   line-height: 2;
@@ -46,7 +46,7 @@ p{
 }
 
 .description{
-  color: #66BFBF;
+  color: black;
   margin: 0;
 }
 
@@ -123,7 +123,7 @@ p{
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 2;
-  width: 90%;
+  width: 100%;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   font-size: 23px;
@@ -171,7 +171,7 @@ p{
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
   margin: 0;
 }
 
