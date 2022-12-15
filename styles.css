@@ -174,3 +174,9 @@ p{
   background-size: cover;
   margin: 0;
 }
+
+.title{
+  position: absolute;
+  left:37%;
+  bottom: 30%;
+}
