@@ -39,6 +39,10 @@ p{
   margin:0;
 }
 
+.profile{
+  background-color:#66BFBF;
+}
+
 .avatar{
   border-radius: 50%;
   height: 12.5rem;
