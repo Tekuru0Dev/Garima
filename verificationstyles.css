@@ -3,7 +3,7 @@ body{
 }
 
 .bg-image {
-    background-image: url("images/Bachgroundimages1.jpeg");
+    background-image: url("images/Bachgroundimage1.jpeg");
     filter: blur(4px);
     -webkit-filter: blur(4px);
     height: 100%;
